@@ -37,7 +37,7 @@ returnNumberWhenOnlyOneNumberIsGiven()
 returnSumWhenTwoCommaSeparatedNumbersAreGiven()
 returnSumWhenNewLineIsUsedAsSeparatorAlongWithComma()
 returnSumWhenCustomDelimiterIsProvided()
-throwExceptionWhenNgativeNumbersAreProvided()
+throwExceptionWhenNegativeNumbersAreProvided()
 ignoreNumbersGreaterThanThousand()
 supportDelimiterOfAnyLength()
 supportMultipleDelimiters()
@@ -54,6 +54,10 @@ IntelliJ IDEA for development
 Git & GitHub for version control and hosting
 
 ---------------------------------------------------------------------
+
+Screenshots:
+![image](https://github.com/user-attachments/assets/86fc62a8-0f9f-4ffa-b4f7-f254c5d33ee0)
+-----------------------------------------------------------------------
 
 About Me:
 👩‍💻 Mansi Parikh

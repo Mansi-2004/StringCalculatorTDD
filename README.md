@@ -8,7 +8,7 @@ This project is a part of my submission for the **Incubyte Software Craftsperson
 
 The goal was to create a method:
 
-```java
+java
 int add(String numbers)
 ----------------------------------------------
 
@@ -57,7 +57,7 @@ Git & GitHub for version control and hosting
 
 Screenshots:
 ![image](https://github.com/user-attachments/assets/86fc62a8-0f9f-4ffa-b4f7-f254c5d33ee0)
-![Test Results](img.png)
+
 -----------------------------------------------------------------------
 
 About Me:
